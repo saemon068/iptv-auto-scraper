@@ -9,7 +9,7 @@ from datetime import datetime
 # এখানে আপনার BD Proxy বসান (IP:PORT)
 # উদাহরণ: "http://103.111.222.33:8080"
 # ==========================================
-BD_PROXY = "https://203.146.80.102:8080"
+BD_PROXY = "http://113.11.76.233:30226"
 
 proxies = {
     "http": BD_PROXY,
