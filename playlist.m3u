@@ -1,0 +1,159 @@
+#EXTM3U
+Made with love by Kamrulbd.IT
+Sorted by Category and Channel Name (A-Z)
+Last Updated: 2026-04-19 14:05
+
+=================Sports=====================
+
+#EXTINF:-1 tvg-id="T SPORTS" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg" group-title="Sports",T SPORTS
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
+
+#EXTINF:-1 tvg-id="A SPORTS HD" tvg-name="A SPORTS HD" tvg-logo="https://i.imgur.com/hO4UiBa.png" group-title="Sports",A SPORTS HD
+http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
+
+#EXTINF:-1 tvg-id="PTV SPORTS HD" tvg-name="PTV SPORTS HD" tvg-logo="https://i.imgur.com/WFf2kaH.jpeg" group-title="Sports",PTV SPORTS HD
+http://198.195.239.50:8095/PTV-kutta/video.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
+
+#EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/pBMoNL1.jpeg" group-title="Sports",STAR SPORTS 1
+http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
+
+#EXTINF:-1 tvg-id="STAR SPORTS 2 HD" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.imgur.com/ED1Es6H.jpeg" group-title="Sports",STAR SPORTS 2
+
+
+#EXTINF:-1 tvg-id="STAR SPORTS 3" tvg-name="STAR SPORTS 3" tvg-logo="https://i.imgur.com/wZ6JbqO.jpeg" group-title="Sports",STAR SPORTS 3
+http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSelect1" tvg-name="STAR SPORTS SELECT 1" tvg-logo="https://i.imgur.com/Uf9kaSQ.jpeg" group-title="Sports",STAR SPO SEL 1
+http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSelect2" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://i.imgur.com/H5wcIUZ.png" group-title="Sports",STAR SPO SEL 2
+http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="SuperSport" tvg-name="SuperSport" tvg-logo="https://supersport.com/images/SuperSportsLogo.svg" group-title="Sports",SuperSport
+
+
+#EXTINF:-1 tvg-id="SkySportCricket" tvg-logo="https://i.imgur.com/5EyZR8Z.png" group-title="Sports",Sky Sport Cricket
+
+
+#EXTINF:-1 tvg-id="SkySportCricket" tvg-logo="https://i.imgur.com/3sS3jPP.jpeg" group-title="Sports",Premier League
+
+
+#EXTINF:-1 tvg-id="SkySportCricket" tvg-name="Sky Sport Cricket" tvg-logo="https://i.imgur.com/nhTnPoQ.jpeg" group-title="Sports",Sky Sports Footbal
+
+
+#EXTINF:-1 tvg-id="TNT-SPORTS" tvg-name="TNT SPORTS" tvg-logo="https://i.imgur.com/OsouEiN.png" group-title="Sports",TNT Sports
+
+
+#EXTINF:-1 tvg-id="WILLOW" tvg-name="WILLOW" tvg-logo="https://i.imgur.com/UnrS7Kn.png" group-title="Sports",WILLOW SPORTS
+
+
+#EXTINF:-1 tvg-id="beinsports" tvg-name="beIN SPORTS" tvg-logo="https://i.imgur.com/JUaMwBY.jpeg" group-title="Sports",beIN SPORTS US 
+
+
+#EXTINF:-1 tvg-id="beinsports" tvg-name="beIN SPORTS" tvg-logo="https://i.imgur.com/UIfXPPD.png" group-title="Sports",beIN SPORTS 
+
+
+#EXTINF:-1 tvg-id="GEO-SUPER" tvg-name="GEO SUPER" tvg-logo="https://i.imgur.com/xKHNOF7.png" group-title="Sports",GEO SUPER
+
+
+=================Bangla=====================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WYY0CTB.png" group-title="Bangla",BTV
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rrJK1PW.jpeg" group-title="Bangla",DBC NEWS
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8buurJe.jpeg" group-title="Bangla", RTV
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0HrMoR1.jpeg" group-title="Bangla",CHANNEL24
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QmeRD9z.jpeg" group-title="Bangla",GAZI TV
+
+
+#EXTINF:-1 tvg-id="jalshamovies" tvg-name="Jalsha Movie" tvg-logo="https://i.imgur.com/lLhY3yS.jpeg" group-title="Bangla",JALSHA MOVIES
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7UZX6dS.jpeg" group-title="Bangla",SONY AATH
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxU4k6B.jpeg" group-title="Bangla", NAGORIK
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r1w2Fb5.jpeg" group-title="Bangla",EKATTOR
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qLzPtx1.png" group-title="Bangla", COLORS BANGLA CINEMA
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SQI9RF.jpeg" group-title="Bangla", COLORS HD BANGLA
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBbMnoR.jpeg" group-title="Bangla", SUN BANGLA
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jnU66aG.png" group-title="Bangla", STAR JALSHA HD
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d7P7uIf.jpeg" group-title="Bangla", ZEE BANGLA HD
+
+
+=================Hindi=====================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZI6Oghh.png" group-title="Hindi", STAR PLUS HD
+http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/orBrLXB.png" group-title="Hindi", STAR GOLD HD
+http://198.195.239.50:8095/StarGold/tracks-v1a1/mono.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LLAR9bY.png" group-title="Hindi", SONY MAX
+http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TFPRKlt.png" group-title="Hindi",Sony Enter TV HD
+http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CVzHLPU.png" group-title="Hindi", Z CINEMA HD
+
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Zee_TV_2025.svg",Z TV
+http://198.195.239.50:8095/ZeeTV/tracks-v1a1/mono.m3u8
+
+=================English=====================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TDHAVPQ.png" group-title="English", MOVIES NOW
+
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/65k3bGO.png",STAR MOVIES HD
+http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="sony-pix" tvg-name="sony pix" tvg-logo="https://i.imgur.com/QL8fRta.png" group-title="English",Sony PIX
+
+
+=================Kids=====================
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Disney_Channel_India_HD.png" group-title="Kids",DISNEY
+https://ashtv.com.bd/server/disneyhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FuzyvK0.jpeg" group-title="Kids",CN HD
+http://198.195.239.50:8095/CartoonNetwork/tracks-v1a1/mono.m3u8?token=10e45d76ad64767206928e42c65b020f6687cde5-7e30a731b6a9b5504d59aa36cf0064f9-1776259936-1776256336
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XjgVaD1.png" group-title="Kids",CN
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bFZ1aE4.png" group-title="Kids",DISCOVERY KIDS
+http://198.195.239.50:8095/DiscoveryKids/tracks-v1a1/mono.m3u8?token=9b3ba93b2627d40c58d9909d37e3f6944e012057-411bed8327f9accc8f0aa339b63bc582-1776260387-1776256787
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATiDK7f.jpeg" group-title="Kids",DURONTO
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/X8TagA7.png" group-title="Kids",POGO
+
+
+=================Documentary=====================
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlmtU7A.jpeg" group-title="Documentary", DISCOVERY
+http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whinAit.jpeg" group-title="Documentary", NATGEO
+http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
