@@ -5,7 +5,17 @@ from urllib.parse import urljoin
 import pytz
 from datetime import datetime
 
-# Website URL
+# ==========================================
+# এখানে আপনার BD Proxy বসান (IP:PORT)
+# উদাহরণ: "http://103.111.222.33:8080"
+# ==========================================
+BD_PROXY = "https://203.146.80.102:8080"
+
+proxies = {
+    "http": BD_PROXY,
+    "https": BD_PROXY
+}
+
 BASE_URL = "http://180.94.28.28/"
 
 headers = {
@@ -15,9 +25,9 @@ headers = {
 
 def get_raw_m3u8_link(play_url):
     try:
-        res = requests.get(play_url, headers=headers, timeout=10)
+        # প্রক্সি ব্যবহার করে রিকোয়েস্ট পাঠানো হচ্ছে (timeout একটু বাড়িয়ে ২০ দেওয়া হলো কারণ প্রক্সি স্লো হতে পারে)
+        res = requests.get(play_url, headers=headers, proxies=proxies, timeout=20)
         if res.status_code == 200:
-            # Token soho m3u8 link khuje ber korar regex
             match = re.search(r'(http://[^\s"\'<>]+\.m3u8[^\s"\'<>]*)', res.text)
             if match:
                 return match.group(1)
@@ -26,15 +36,18 @@ def get_raw_m3u8_link(play_url):
     return None
 
 def scrape_iptv():
+    print(f"Connecting via BD Proxy: {BD_PROXY} ...")
     try:
-        response = requests.get(BASE_URL, headers=headers, timeout=10)
+        # প্রক্সি ব্যবহার করে মেইন ওয়েবসাইটে ঢোকা
+        response = requests.get(BASE_URL, headers=headers, proxies=proxies, timeout=20)
+        
         if response.status_code != 200:
-            print("Website a dhoka jacche na!")
+            print(f"Failed! Website return code: {response.status_code}")
             return
 
         soup = BeautifulSoup(response.text, "html.parser")
         
-        # Bangladesh Time (BST) set kora
+        # বাংলাদেশ সময় সেট করা
         bd_time = datetime.now(pytz.timezone('Asia/Dhaka')).strftime('%Y-%m-%d %I:%M %p')
         m3u_content = f"#EXTM3U\n# Last Scraped: {bd_time} (BST)\n\n"
         
@@ -63,25 +76,28 @@ def scrape_iptv():
                     img_tag = a_tag.find('img')
                     logo_url = urljoin(BASE_URL, img_tag.get('src')) if img_tag else ""
                     
-                    # Deep Scraping: Token anar function call kora
+                    print(f"Scraping Token for: {channel_name} ...")
                     real_m3u8_link = get_raw_m3u8_link(play_url)
                     
                     if real_m3u8_link:
                         m3u_content += f'#EXTINF:-1 tvg-id="" tvg-name="{channel_name}" tvg-logo="{logo_url}" group-title="{category}",{channel_name}\n'
                         m3u_content += f'{real_m3u8_link}\n'
                         count += 1
-                        print(f"Added: {channel_name}")
+                        print(f"--> Done: {channel_name}")
                     
             except Exception as e:
                 pass
 
+        # ফাইল সেভ করা
         if count > 0:
             with open("playlist.m3u", "w", encoding="utf-8") as file:
                 file.write(m3u_content)
             print(f"\nSuccess! Total {count} channels saved.")
+        else:
+            print("\nKono m3u8 link paowa jayni.")
         
     except Exception as e:
-        print(f"Error: {e}")
+        print(f"Proxy Connection Error: {e}\n(Probable issue: Proxy is dead or very slow)")
 
 if __name__ == "__main__":
     scrape_iptv()
