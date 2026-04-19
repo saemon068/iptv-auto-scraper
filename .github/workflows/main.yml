@@ -2,8 +2,8 @@ name: Auto Update IPTV Playlist
 
 on:
   schedule:
-    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা পর পর আপডেট হবে
-  workflow_dispatch: # ম্যানুয়ালি রান করার জন্য
+    - cron: '*/5 * * * *' # প্রতি ৫ মিনিট পর পর চেক করবে
+  workflow_dispatch:
 
 jobs:
   update:
@@ -20,10 +20,10 @@ jobs:
       - name: Run Python Script
         run: python main.py
 
-      - name: Commit and Push Changes
+      - name: Check for changes and Commit
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add playlist.m3u
-          git commit -m "Auto updated playlist" || exit 0
-          git push
+          # যদি ফাইলে কোনো পরিবর্তন হয়, তবেই গিটহাবে পুশ করবে
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto updated playlist with new tokens" && git push)
