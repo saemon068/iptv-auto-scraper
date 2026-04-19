@@ -2,8 +2,66 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-04-19 22:29:24 (BD Time)
-# 📺 Channels Count: 0
+# 🕒 Last Updated: 2026-04-19 23:08:42 (BD Time)
+# 📺 Channels Count: 20
 #=================================
 
+#EXTINF:-1 tvg-id="T SPORTS" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg" group-title="Sports",T SPORTS
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
 
+#EXTINF:-1 tvg-id="A SPORTS HD" tvg-name="A SPORTS HD" tvg-logo="https://i.imgur.com/hO4UiBa.png" group-title="Sports",A SPORTS HD
+http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
+
+#EXTINF:-1 tvg-id="PTV SPORTS HD" tvg-name="PTV SPORTS HD" tvg-logo="https://i.imgur.com/WFf2kaH.jpeg" group-title="Sports",PTV SPORTS HD
+http://198.195.239.50:8095/PTV-kutta/video.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
+
+#EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/pBMoNL1.jpeg" group-title="Sports",STAR SPORTS 1
+http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
+
+#EXTINF:-1 tvg-id="STAR SPORTS 3" tvg-name="STAR SPORTS 3" tvg-logo="https://i.imgur.com/wZ6JbqO.jpeg" group-title="Sports",STAR SPORTS 3
+http://198.195.239.50:8095/StarSports2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSelect1" tvg-name="STAR SPORTS SELECT 1" tvg-logo="https://i.imgur.com/Uf9kaSQ.jpeg" group-title="Sports",STAR SPO SEL 1
+http://198.195.239.50:8095/StarSportsSelect1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSelect2" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://i.imgur.com/H5wcIUZ.png" group-title="Sports",STAR SPO SEL 2
+http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7UZX6dS.jpeg" group-title="Bangla",SONY AATH
+http://198.195.239.50:8095/SonyAath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxU4k6B.jpeg" group-title="Bangla", NAGORIK
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZI6Oghh.png" group-title="Hindi", STAR PLUS HD
+http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/orBrLXB.png" group-title="Hindi", STAR GOLD HD
+http://198.195.239.50:8095/StarGold/tracks-v1a1/mono.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LLAR9bY.png" group-title="Hindi", SONY MAX
+http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TFPRKlt.png" group-title="Hindi",Sony Enter TV HD
+http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
+
+#EXTINF:-1 group-title="Hindi" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/95/Zee_TV_2025.svg",Z TV
+http://198.195.239.50:8095/ZeeTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/65k3bGO.png",STAR MOVIES HD
+http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Disney_Channel_India_HD.png" group-title="Kids",DISNEY
+https://ashtv.com.bd/server/disneyhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FuzyvK0.jpeg" group-title="Kids",CN HD
+http://198.195.239.50:8095/CartoonNetwork/tracks-v1a1/mono.m3u8?token=10e45d76ad64767206928e42c65b020f6687cde5-7e30a731b6a9b5504d59aa36cf0064f9-1776259936-1776256336
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bFZ1aE4.png" group-title="Kids",DISCOVERY KIDS
+http://198.195.239.50:8095/DiscoveryKids/tracks-v1a1/mono.m3u8?token=9b3ba93b2627d40c58d9909d37e3f6944e012057-411bed8327f9accc8f0aa339b63bc582-1776260387-1776256787
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlmtU7A.jpeg" group-title="Documentary", DISCOVERY
+http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/whinAit.jpeg" group-title="Documentary", NATGEO
+http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
