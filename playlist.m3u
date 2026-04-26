@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-04-26 12:26:50 (BD Time)
-# 📺 Channels Count: 28
+# 🕒 Last Updated: 2026-04-26 22:59:24 (BD Time)
+# 📺 Channels Count: 29
 #=================================
 
 #EXTINF:-1 tvg-id="T SPORTS" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg" group-title="Sports",T SPORTS
@@ -29,6 +29,9 @@ http://198.195.239.50:8095/StarSportsSelect2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QmeRD9z.jpeg" group-title="Bangla",GAZI TV
 http://198.195.239.50:8095/bdixbd.net_gazitvhd/video.m3u8?token=8291e6bc6d2a2935e204c1838f5730291810b4de-58cc706032206f29cde79dadc472229d-1775633452-1775629852
+
+#EXTINF:-1 tvg-id="jalshamovies" tvg-name="Jalsha Movie" tvg-logo="https://i.imgur.com/lLhY3yS.jpeg" group-title="Bangla",JALSHA MOVIES
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fxU4k6B.jpeg" group-title="Bangla", NAGORIK
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
