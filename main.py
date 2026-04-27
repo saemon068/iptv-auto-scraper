@@ -2,7 +2,7 @@ import urllib.request
 import datetime
 import os
 
-url = "http://beta.ashtv.com.bd/server/iptv.m3u?v=1776601355539"
+url = "https://ashtv.com.bd/server/playlist.m3u?v=1777309951103"
 output_file = "playlist.m3u"
 
 def fetch_and_format_playlist():
