@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-04-28 21:38:32 (BD Time)
+# 🕒 Last Updated: 2026-04-29 00:57:32 (BD Time)
 # 📺 Channels Count: 225
 #=================================
 
@@ -31,7 +31,7 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=bangla_tv&e=.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-id="bijoytv" tvg-name="Bijoy TV" tvg-logo="https://i.imgur.com/ji7KJXK.png" group-title="Bangladesh",Bijoy TV
-https://tvsen6.aynascope.net/bijoytv/index.m3u8?e=1776520703&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=5858000b227758b4b1a012661d1f12e7
+https://ottbanglaplatform.com/tv/toffee/live.php?id=bijoytv&e=.m3u8
 
 #EXTINF:-1 tvg-id="boishakhitv" tvg-name="Boishakhi TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg" group-title="Bangladesh",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -231,14 +231,14 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Star_Bharat_2022.png" group-title="India", Star Bharat HD
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C301/master.m3u8
 
-#EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha HD" tvg-logo="https://i.postimg.cc/hvRgj26W/20250529-105408.png" group-title="India",Star Jalsha HD
+#EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/jnU66aG.png" group-title="India",Star Jalsha HD
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://edge2.roarzone.net:8447/roarzone/edge2/star-jalsha/index.m3u8?token=cc7003db0888fc521716d09b6d0d0520033bd762-89de2a58de2e0286f3af8e04ca6866f7-1776624166-1776613366
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="India",Hindi Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
-#EXTINF:-1 tvg-id="jalshamovies" tvg-name="Jalsha Movie" tvg-logo="https://i.postimg.cc/T2nGNxc8/20250707_053157.png" group-title="India",Jalsha Movie
-https://cdn2.ctgiptv.com/roarzone/edge2/jalsha-movies/tracks-v1a1/mono.m3u8?remote=103.211.29.13&token=e3a84beb481fa268a8240ea6430f4ca5d2a26146-107d1881568e09a424a636c4b6fefb05-1777392852-1777382052
+#EXTINF:-1 tvg-id="jalshamovies" tvg-name="Jalsha Movie" tvg-logo="https://i.imgur.com/lLhY3yS.jpeg" group-title="India",Jalsha Movie
+https://cdn2.ctgiptv.com/roarzone/edge2/jalsha-movies/index.m3u8?token=c593669a10df65cfb9e347756d7297b0a49bc7f7-ffb65bb118946ee79e53bbbd17313e4e-1777406072-1777395272
 
 #EXTINF:-1 tvg-id="StarGoldHD" tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202_090224.png" group-title="India",Star Gold HD
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
