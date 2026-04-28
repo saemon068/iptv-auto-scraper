@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-04-27 23:33:42 (BD Time)
+# 🕒 Last Updated: 2026-04-28 21:06:09 (BD Time)
 # 📺 Channels Count: 225
 #=================================
 
@@ -45,8 +45,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 tvg-id="channel24" tvg-name="Channel24" tvg-logo="https://i.postimg.cc/nLmPznJr/20250529-071852.png" group-title="Bangladesh",Channel24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
-#EXTINF:-1 tvg-id="channel1" tvg-name="Channel 1" tvg-logo="https://i.imgur.com/zZGE9Ae.png" group-title="Bangladesh",Channel 1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.m3u8
+#EXTINF:-1 tvg-id="channelone" tvg-name="Channel One" tvg-logo="https://i.imgur.com/zZGE9Ae.png" group-title="Bangladesh",Channel One
+https://static.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="channeli" tvg-name="Channel I" tvg-logo="https://i.postimg.cc/J47vqwbY/20250529-101717.png" group-title="Bangladesh",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
@@ -238,7 +238,7 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://edge2.roarzone
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovies" tvg-name="Jalsha Movie" tvg-logo="https://i.postimg.cc/T2nGNxc8/20250707_053157.png" group-title="India",Jalsha Movie
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://edge2.roarzone.net:8447/roarzone/edge2/jalsha-movies/index.m3u8?token=8a98a6692fafb1177f062c1967c591d7e9a7c826-971d54eee22fd01f221b8c69c59a93ea-1776631082-1776620282
+https://cdn2.ctgiptv.com/roarzone/edge2/jalsha-movies/tracks-v1a1/mono.m3u8?remote=103.211.29.13&token=e3a84beb481fa268a8240ea6430f4ca5d2a26146-107d1881568e09a424a636c4b6fefb05-1777392852-1777382052
 
 #EXTINF:-1 tvg-id="StarGoldHD" tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202_090224.png" group-title="India",Star Gold HD
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
