@@ -2,12 +2,9 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-04-29 15:24:21 (BD Time)
-# 📺 Channels Count: 226
+# 🕒 Last Updated: 2026-04-29 18:55:54 (BD Time)
+# 📺 Channels Count: 225
 #=================================
-
-#EXTINF:-1 tvg-id="sports" tvg-logo="https://i.imgur.com/SMeAkdt.png" group-title="Bangladesh",NZ vs BAN
-https://cdn1.ctgiptv.com/t-sports/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="anirban" tvg-name="ASH TV" tvg-logo="https://i.imgur.com/rwd1rei.png" group-title="Bangladesh",Anirban
 https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
@@ -241,7 +238,7 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://edge2.roarzone
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovies" tvg-name="Jalsha Movie" tvg-logo="https://i.imgur.com/lLhY3yS.jpeg" group-title="India",Jalsha Movie
-https://cdn2.ctgiptv.com/roarzone/edge2/jalsha-movies/index.m3u8?token=f8bd5ede40ce23fbf785ae7dc1bc6c22b2c50048-b8b22d946e9989b8efdbb1097e490845-1777459328-1777448528
+https://cdn2.ctgiptv.com/roarzone/edge2/jalsha-movies/index.m3u8?token=55d6b69ae28133635817f1d883349b1effeefe24-2f28f727b0dd4fafa8943171ca5d2e4f-1777471705-1777460905
 
 #EXTINF:-1 tvg-id="StarGoldHD" tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202_090224.png" group-title="India",Star Gold HD
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
