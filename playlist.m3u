@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-05-01 23:12:04 (BD Time)
+# 🕒 Last Updated: 2026-05-02 20:15:37 (BD Time)
 # 📺 Channels Count: 225
 #=================================
 
@@ -73,7 +73,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 https://ashtv.com.bd/server/channels/ekhon.m3u8
 
 #EXTINF:-1 tvg-id="etv" tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/L6R2F0jj/20250529_105209.png" group-title="Bangladesh",Ekushey TV
-https://tvsen6.aynascope.net/etv/index.m3u8?e=1776520693&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=7925bfc0454f341ed605e7ddf485b4b7
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://ekusheyserver.com/etvlivesn.m3u8
 
 #EXTINF:-1 tvg-id="gazitv" tvg-name="Gazi TV" tvg-logo="https://i.imgur.com/yTMY0wW.png" group-title="Bangladesh",Gazi TV
 https://ashtv.com.bd/server/channels/gazi_tv.m3u8
