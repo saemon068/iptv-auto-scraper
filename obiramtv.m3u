@@ -6,7 +6,7 @@
 # 📺 Channels Count: 22
 #=================================
 
-#EXTINF:-1 tvg-name="Sony Sports 1 HD" group-title="Cricket ",Sony Sports 1 HD
+#EXTINF:-1 tvg-name="Sony Sports 1 HD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/12/asiantv.jpg"  group-title="Cricket ",Sony Sports 1 HD
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
 
 #EXTINF:-1 tvg-name="Sony Sports 2 HD" group-title="Cricket ",Sony Sports 2 HD
