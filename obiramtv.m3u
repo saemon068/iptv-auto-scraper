@@ -6,11 +6,17 @@
 # 📺 Channels Count: 22
 #=================================
 
-#EXTINF:-1 tvg-id="" tvg-name="ASH TV" tvg-logo="https://i.imgur.com/rwd1rei.png" group-title="Bangladesh",Anirban
-https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 1 HD" group-title="Cricket ",Sony Sports 1 HD
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
 
-#EXTINF:-1 tvg-id="ashtv" tvg-name="ASH TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/06/ASH-TV.jpg" group-title="Bangladesh",ASH TV
-https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="Sony Sports 2 HD" group-title="Cricket ",Sony Sports 2 HD
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg" group-title="Bangladesh",Ananda TV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Sony Sports 3 HD" group-title="Cricket ",Sony Sports 3 HD
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_3_hd&e=.m3u8
+
+
+#EXTINF:-1 tvg-name="Sony Sports 5 HD" group-title="Cricket ",Sony Sports 5 HD
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
+
