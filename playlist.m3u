@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-05-05 20:35:47 (BD Time)
+# 🕒 Last Updated: 2026-05-09 12:14:17 (BD Time)
 # 📺 Channels Count: 225
 #=================================
 
@@ -25,13 +25,13 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
 #EXTINF:-1 tvg-id="banglatv" tvg-name="Bangla TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/05/banglatvhd-1.jpg" group-title="Bangladesh",Bangla TV
-https://ashtv.com.bd/server/channels/bangla_tv.m3u8
+https://stream.ottplus.live/live/bangla_tv_hd_abr/live/bangla_tv_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="banglavision" tvg-name="Banglavision" tvg-logo="https://i.postimg.cc/JzGFfbYb/20250529-072833.png" group-title="Bangladesh",Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
 #EXTINF:-1 tvg-id="bijoytv" tvg-name="Bijoy TV" tvg-logo="https://i.imgur.com/ji7KJXK.png" group-title="Bangladesh",Bijoy TV
-https://ashtv.com.bd/server/channels/bijoy-tv.m3u8
+https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="boishakhitv" tvg-name="Boishakhi TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2015/10/BoishakhiTV-150x1501.jpg" group-title="Bangladesh",Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
@@ -70,7 +70,7 @@ https://bozztv.com/rongo/rongo-DeshTV/tracks-v2a1/mono.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
 #EXTINF:-1 tvg-id="ekhontv" tvg-name="Ekhon TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/ekhontv.jpg" group-title="Bangladesh",Ekhon TV
-https://ashtv.com.bd/server/channels/ekhon.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/globaltv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="etv" tvg-name="Ekushey TV" tvg-logo="https://i.postimg.cc/L6R2F0jj/20250529_105209.png" group-title="Bangladesh",Ekushey TV
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://ekusheyserver.com/etvlivesn.m3u8
@@ -103,7 +103,7 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=movie_bangla&e=.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="Bangladesh",Nagorik TV
-https://buy.ottbangla.com/4k/amd/stream.php?proxy=https://tv.ottking.top/webottking/linkchor/22.m3u8
+https://ultra02jibon02by1.jibon02premium.workers.dev/JIBON-BD-VS-PK/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="news24" tvg-name="NEWS24" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg" group-title="Bangladesh",NEWS24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
