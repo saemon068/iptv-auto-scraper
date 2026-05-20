@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-05-16 19:41:50 (BD Time)
-# 📺 Channels Count: 225
+# 🕒 Last Updated: 2026-05-20 20:14:59 (BD Time)
+# 📺 Channels Count: 226
 #=================================
 
 #EXTINF:-1 tvg-id="anirban" tvg-name="ASH TV" tvg-logo="https://i.imgur.com/rwd1rei.png" group-title="Bangladesh",Anirban
@@ -118,7 +118,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 
 #EXTINF:-1 tvg-id="rtv" tvg-name="RTV" tvg-logo="https://i.postimg.cc/8kmxMkrr/20250529_101852.png" group-title="Bangladesh",RTV
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://ftpbdlive.com:8097/RTV/index.fmp4.m3u8
+https://ashtv.com.bd/server/channels/rtv.m3u8
 
 #EXTINF:-1 tvg-id="satv" tvg-name="SATV" tvg-logo="https://i.imgur.com/j8JlVp7.jpeg" group-title="Bangladesh",SATV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
@@ -412,7 +412,7 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=discovery_kids&e=.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="disney channel india" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Disney_Channel_India_HD.png" group-title="Kids",Disney Channel HD
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://ajkiptv.ridsys.in/riptv/live/DISNEY_CHANNEL/index.m3u8
+https://ashtv.com.bd/server/channels/disney_jr.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/GXzqIYy.png" group-title="Kids",Tom & Jerry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
@@ -542,6 +542,9 @@ https://cc-zko1curyce7jh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Zr0ZfYF.png" group-title="Documentary",4k Travel TV
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="axstv" tvg-name="AXS TV" tvg-logo="https://i.imgur.com/YC1fcYC.png" group-title="English",AXS TV
+https://ashtv.com.bd/server/channels/axs.m3u8
 
 #EXTINF:-1 tvg-id="actionhollywood" tvg-name="actionhollywood" tvg-logo="https://i.imgur.com/xQHQNBz.png" group-title="English",Action Hollywood
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/ts-eu-w1-n2/playlist/amg01076-lightningintern-actionhollywood-samsungnz/cb573d1e786c678f9bd43d6fcef04382847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7abb20e13db64a9e50149c32643fa83439fd501b2868153834bd725a4179f97f78fd242d7e4ef598d6f77a02022405fbdc213b1c853b1d69b6d3c8f795a297437c790e335caa1e43d277debf6cac505b5739cc84d290146e935c8054de3dd4bd31b4d0fca325a8dff082b18b7cd5a2e03a8e4ab8bc1f852d769d6adf3d47f7098b94136178925ef2b253c9fead854aaf755c7e66dd5ef292a31cec711c0ddaad5bbf9cd6b8c35c6c2c39d3f6947774b57d50aecc93b9b61f6509ce33f6d1c414da69f15e383da553f2b0fa5884cdb1e1ef68adfd6915e759a2e4b1adb61df5a176583613f2bab7eafe84906e311038b3132ec4b75d1128edf02c1e78ab5486bcf9dad24d860e0b206d78c728a652e560fb6b2611f724573d4e1711e721ee740f7d8deee670362b8a32d9f47b68daa5fc98681f5dd40f0651566967c26921b36/44/1280x720_2657600/index.m3u8
