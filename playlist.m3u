@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-05-20 20:14:59 (BD Time)
-# 📺 Channels Count: 226
+# 🕒 Last Updated: 2026-05-20 23:32:55 (BD Time)
+# 📺 Channels Count: 227
 #=================================
 
 #EXTINF:-1 tvg-id="anirban" tvg-name="ASH TV" tvg-logo="https://i.imgur.com/rwd1rei.png" group-title="Bangladesh",Anirban
@@ -675,8 +675,11 @@ https://live.kwikmotion.com/qtv1live/qtv1.smil/qtv1publish/qtv1_480p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Dp9Kc46.png" group-title="Others",TBN24
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=https://www.tbn24.com/live-tv-stream/20201_0.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x67896" group-title="Others",Time Televison | USA
+#EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x67896" group-title="Others",Time Televison
 https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/afyjgx5.jpeg" group-title="Others",Thikana
+https://ashtv.com.bd/server/channels/thikana.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/TVONE-LOGO-Colour.png" group-title="Others",TV ONE
 https://app.ncare.live/live-orgin/tvoneuksni.stream/playlist.m3u8
