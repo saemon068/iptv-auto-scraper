@@ -2,12 +2,15 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-05-21 14:20:21 (BD Time)
-# 📺 Channels Count: 233
+# 🕒 Last Updated: 2026-05-21 20:27:17 (BD Time)
+# 📺 Channels Count: 236
 #=================================
 
 #EXTINF:-1 tvg-id="A SPORTS HD" tvg-name="A SPORTS HD" tvg-logo="https://i.imgur.com/hO4UiBa.png" group-title="Sports",A SPORTS HD
 https://ashtv.com.bd/server/channels/a_sports.m3u8
+
+#EXTINF:-1 tvg-id="T SPORTS" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg" group-title="Sports",T SPORTS HD
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="T SPORTS" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg" group-title="Sports",T SPORTS HD
 https://ashtv.com.bd/server/channels/t_sports_hd.m3u8
@@ -16,10 +19,16 @@ https://ashtv.com.bd/server/channels/t_sports_hd.m3u8
 https://ashtv.com.bd/server/channels/ptv_sports.m3u8
 
 #EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/pBMoNL1.jpeg" group-title="Sports",STAR SPORTS 1
-https://ashtv.com.bd/server/channels/star_sports_1.m3u8
+https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="ten cricket" tvg-name="ten cricket" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/TEN_Cricket.png" group-title="Sports",TEN CRICKET
+https://ashtv.com.bd/server/channels/sony_ten_cricket.m3u8
 
 #EXTINF:-1 tvg-id="WILLOW" tvg-name="WILLOW" tvg-logo="https://i.imgur.com/UnrS7Kn.png" group-title="Sports",WILLOW SPORTS
 https://ashtv.com.bd/server/channels/willow_tv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="Sports",beIN sports Xtra En
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 tvg-id="GOALTV" tvg-name="GOAL TV" tvg-logo="https://i.imgur.com/zsj6tLX.jpeg" group-title="Sports",GOAL TV
 https://ashtv.com.bd/server/channels/goal_tv.m3u8
@@ -250,7 +259,7 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C301/master.m3u8
 
 #EXTINF:-1 tvg-id="StarJalsha" tvg-name="Star Jalsha HD" tvg-logo="https://i.imgur.com/jnU66aG.png" group-title="India",Star Jalsha HD
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=https://edge2.roarzone.net:8447/roarzone/edge2/star-jalsha/index.m3u8?token=cc7003db0888fc521716d09b6d0d0520033bd762-89de2a58de2e0286f3af8e04ca6866f7-1776624166-1776613366
+https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/3132515182ec50091b496fe515564084" group-title="India",Hindi Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
