@@ -2,12 +2,18 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-05-23 13:42:16 (BD Time)
-# 📺 Channels Count: 252
+# 🕒 Last Updated: 2026-05-23 21:48:13 (BD Time)
+# 📺 Channels Count: 255
 #=================================
 
 #EXTINF:-1 tvg-id="A SPORTS HD" tvg-name="A SPORTS HD" tvg-logo="https://i.imgur.com/hO4UiBa.png" group-title="Sports",A SPORTS HD
 https://tvsen6.aynaott.com/asports/index.m3u8
+
+#EXTINF:-1 tvg-id="euro sports" tvg-name="euro sports" tvg-logo="https://i.imgur.com/nYJ0UYA.png" group-title="Sports",Euro Sports
+https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8e08XtE.png" group-title="Sports",FIFA World Cup
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 tvg-id="T SPORTS" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg" group-title="Sports",T SPORTS
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
@@ -47,6 +53,9 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://i.imgur.com/fuChl2l.jpeg" group-title="Sports",ESPN
 https://tvsen5.aynaott.com/espn/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/14x6bRB.png" group-title="Sports",Fox Sports
+https://d1jzu95oc8fgt3.cloudfront.net:443/FOX_Sports.m3u8
 
 #EXTINF:-1 tvg-id="fignttv" tvg-name="FIGHT TV" tvg-logo="https://i.imgur.com/AUwplTI.png" group-title="Sports",FIGHT TV
 https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/aa5b1380-fbb4-48a4-a03d-21fe36643886/1.m3u8
