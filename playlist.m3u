@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-05-23 21:48:13 (BD Time)
-# 📺 Channels Count: 255
+# 🕒 Last Updated: 2026-05-23 22:43:31 (BD Time)
+# 📺 Channels Count: 254
 #=================================
 
 #EXTINF:-1 tvg-id="A SPORTS HD" tvg-name="A SPORTS HD" tvg-logo="https://i.imgur.com/hO4UiBa.png" group-title="Sports",A SPORTS HD
@@ -53,9 +53,6 @@ https://streams2.sofast.tv/sofastplayout/WiseM3U8_1/master.m3u8
 
 #EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://i.imgur.com/fuChl2l.jpeg" group-title="Sports",ESPN
 https://tvsen5.aynaott.com/espn/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/14x6bRB.png" group-title="Sports",Fox Sports
-https://d1jzu95oc8fgt3.cloudfront.net:443/FOX_Sports.m3u8
 
 #EXTINF:-1 tvg-id="fignttv" tvg-name="FIGHT TV" tvg-logo="https://i.imgur.com/AUwplTI.png" group-title="Sports",FIGHT TV
 https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/aa5b1380-fbb4-48a4-a03d-21fe36643886/1.m3u8
