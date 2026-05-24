@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-05-25 00:47:52 (BD Time)
+# 🕒 Last Updated: 2026-05-25 01:56:08 (BD Time)
 # 📺 Channels Count: 256
 #=================================
 
@@ -100,7 +100,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="banglatv" tvg-name="Bangla TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/05/banglatvhd-1.jpg" group-title="Bangladesh",Bangla TV
-https://stream.ottplus.live/live/bangla_tv_hd_abr/live/bangla_tv_hd_720/chunks.m3u8
+https://ghudditv-public2.torongoplus.workers.dev/?url=https://cdn.ghuddi.live/tvapp/Bangla_TV_BD_New/Transcoded/Bangla_TV_BD_1080p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="banglavision" tvg-name="Banglavision" tvg-logo="https://i.postimg.cc/JzGFfbYb/20250529-072833.png" group-title="Bangladesh",Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
