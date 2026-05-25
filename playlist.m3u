@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-05-25 10:49:56 (BD Time)
+# 🕒 Last Updated: 2026-05-25 14:48:11 (BD Time)
 # 📺 Channels Count: 255
 #=================================
 
@@ -199,7 +199,7 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
 
 #EXTINF:-1 tvg-id="satv" tvg-name="SATV" tvg-logo="https://i.imgur.com/j8JlVp7.jpeg" group-title="Bangladesh",SATV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+https://tvsen6.aynaott.com/satv/index.m3u8
 
 #EXTINF:-1 tvg-id="Sangsad-Television" tvg-name="Sangsad Television" tvg-logo="https://i.imgur.com/boekJnD.png" group-title="Bangladesh",Sangsad Television
 https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
@@ -394,13 +394,13 @@ https://ml-pull-dvc-myco.io:2096/HUM_ENTERTAINMENT/tracks-v1a1/mono.ts.m3u8
 https://edge2.roarzone.net:8447/roarzone/edge3/hum_tv/index.m3u8
 
 #EXTINF:-1 tvg-id="hum masala" tvg-name="hum masala" tvg-logo="https://i.imgur.com/sPkuvkl.png" group-title="Pakistan",Hum Masala
-https://edge2.roarzone.net:8447/roarzone/edge3/hum_masala/index.m3u8
+https://cdn05khi.tamashaweb.com:8087/jazzauth/hummasala-abr/live/vsat-118M/chunks.m3u8
 
 #EXTINF:-1 tvg-id="hum sitarey" tvg-name="hum sitarey" tvg-logo="https://i.imgur.com/3szQDQi.png" group-title="Pakistan",Hum Sitaray World
 https://edge2.roarzone.net:8447/roarzone/edge3/hum_sitaray/index.m3u8
 
 #EXTINF:-1 tvg-id="hum sitarey" tvg-name="hum sitarey" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/Hum_Sitaray_Logo.png" group-title="Pakistan",Hum Sitaray
-https://live.thebosstv.com:30443/dwlive/HUM-SITARAY/chunks.m3u8
+https://cdn22lhr.tamashaweb.com:8087/jazzauth/HumSitaray-abr/live/vsat-107H/chunks.m3u8
 
 #EXTINF:-1 tvg-id="9x-jalwa" tvg-name="9X Jalwa" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m6XPXFgtJwZtiGgJ8hAG8uYP64x3rXyAMCZq7vRlBCtss=s900-c-k-c0x00ffffff-no-rj" group-title="Music",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
