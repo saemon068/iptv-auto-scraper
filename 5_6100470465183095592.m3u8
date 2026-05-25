@@ -1,0 +1,115 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 1",Bdix
+https://tvsen1.aynaott.com/Ravc7gPCZpxk/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 2",Bdix
+https://tvsen6.aynaott.com/bijoytv/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 3",Bdix
+https://tvsen6.aynaott.com/deshtv/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 4",Bdix
+https://tvsen6.aynaott.com/ekhontv/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 5",Bdix
+https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 6",Bdix
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8?e=1779631449&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=c498c3dfbd5ef642a6d72e1995034a0d
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 7",Bdix
+https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1779631447&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=b17943e744d11fd3e4ab823085c2c88f
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 8",Bdix
+https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1779631447&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=813080710d06a3eb4f16a83e2695db5e
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 9",Bdix
+https://tvsen6.aynaott.com/globaltvhd/index.m3u8?e=1779631447&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a3b737b0540962917abbe6d94d3027cf
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 10",Bdix
+https://tvsen6.aynaott.com/satv/index.m3u8?e=1779631447&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=ac8296c8b59507ac898a295dfc2da475
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1701
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1702
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1703
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1704
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1705
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1706
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
+# #EXTINF:-1 tvg-server="Server 1",BPK TV 1707
+# https://owrcovcrpy.gpcdn.net/bpk-tv/1707/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1708
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1709
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1710
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1711
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+# #EXTINF:-1 tvg-server="Server 1",BPK TV 1712
+# https://owrcovcrpy.gpcdn.net/bpk-tv/1712/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1713
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+# #EXTINF:-1 tvg-server="Server 1",BPK TV 1714
+# https://owrcovcrpy.gpcdn.net/bpk-tv/1714/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1715
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1716
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+# #EXTINF:-1 tvg-server="Server 1",BPK TV 1717
+# https://owrcovcrpy.gpcdn.net/bpk-tv/1717/output/index.m3u8
+# #EXTINF:-1 tvg-server="Server 1",BPK TV 1718
+# https://owrcovcrpy.gpcdn.net/bpk-tv/1718/output/index.m3u8
+# #EXTINF:-1 tvg-server="Server 1",BPK TV 1719
+# https://owrcovcrpy.gpcdn.net/bpk-tv/1719/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1720
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1721
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1722
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1723
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1724
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
+# #EXTINF:-1 tvg-server="Server 1",BPK TV 1725
+# https://owrcovcrpy.gpcdn.net/bpk-tv/1725/output/index.m3u8
+# #EXTINF:-1 tvg-server="Server 1",BPK TV 1726
+# https://owrcovcrpy.gpcdn.net/bpk-tv/1726/output/index.m3u8
+# #EXTINF:-1 tvg-server="Server 1",BPK TV 1727
+# https://owrcovcrpy.gpcdn.net/bpk-tv/1727/output/index.m3u8
+# #EXTINF:-1 tvg-server="Server 1",BPK TV 1728
+# https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-server="Server 1",BPK TV 1729
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+# #EXTINF:-1 tvg-server="Server 1",BPK TV 1730
+# https://owrcovcrpy.gpcdn.net/bpk-tv/1730/output/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 1",New channel
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 2",New channel
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 3",New channel
+https://edge2.roarzone.net:8447/roarzone/edge5/duronto-tv/index.m3u8?token=fdfc6e460c1a5f5a9b6b73ca1352e42d987fbc00-4109dcef6565a39cb4e66154bf54f455-1779630843-1779620043
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 4",New channel
+https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779627393&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=6dc7fab0000d956cde301f5b15f1fd87
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 5",New channel
+https://tvsen6.aynaott.com/mohonatv/index.m3u8?e=1779627393&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=a624b6821fb4a86cbe6e7b1d27fbbe5b
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 6",New channel
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 7",New channel
+https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1779627393&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=12a32c8b74f3adc785cdae88adf3171d
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 8",New channel
+https://tvsen6.aynaott.com/asiantv/index.m3u8?e=1779627393&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=2198119f263afcd1a921d892576b8526
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 9",New channel
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 10",New channel
+https://vods2.aynascope.net/gseriesDrama/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 11",New channel
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 12",New channel
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 13",New channel
+http://116.204.149.16/mytv/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 14",New channel
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 15",New channel
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 16",New channel
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 1",One
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
