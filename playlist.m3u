@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-05-26 00:55:15 (BD Time)
+# 🕒 Last Updated: 2026-05-26 22:11:32 (BD Time)
 # 📺 Channels Count: 255
 #=================================
 
@@ -525,9 +525,6 @@ https://ashtv.com.bd/server/channels/sony_yay.m3u8
 #EXTINF:-1 tvg-id="tinypop" tvg-name="tiny pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Tiny_Pop_2018.svg" group-title="Kids",Tiny Pop
 https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8
 
-#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPU_idVchUr-IGT6csSe94IJYOYZafaEr4Dg&s",Azan TV
-https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
-
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/vh6zWCN.png",Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
 
@@ -540,8 +537,11 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/rjxyUCE.jpeg",Madani TV
 https://bozztv.com/rongo/rongo-MadaniTV/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="PeaceTvBangla" tvg-name="Peace Tv Bangla" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/08/logo_50.png" group-title="Islamic",Peace Tv Bangla
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-id="PeaceTvBangla" tvg-name="Peace Tv Bangla" tvg-logo="https://i.imgur.com/rio1Pd9.png" group-title="Islamic",Peace Tv Bangla
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/peacetvban.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="PeaceTvEnglish" tvg-name="Peace Tv English" tvg-logo="https://i.imgur.com/NQr7z1G.png" group-title="Islamic",Peace Tv English
+https://cdn01.medialive.one:2096/PEACETVENGLISHFHD/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://e7.pngegg.com/pngimages/407/223/png-clipart-quran-mecca-television-channel-television-show-the-holy-quran-miscellaneous-television.png", Quran TV
 https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
