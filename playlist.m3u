@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-05-26 22:11:32 (BD Time)
+# 🕒 Last Updated: 2026-05-30 15:02:05 (BD Time)
 # 📺 Channels Count: 255
 #=================================
 
@@ -100,7 +100,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/alponatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="banglatv" tvg-name="Bangla TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2017/05/banglatvhd-1.jpg" group-title="Bangladesh",Bangla TV
-https://tvsen6.aynaott.com/banglatv/index.m3u8
+https://stream.ottplus.live/live/bangla_tv_hd_abr/live/bangla_tv_hd_720/chunks.m3u8
 
 #EXTINF:-1 tvg-id="banglavision" tvg-name="Banglavision" tvg-logo="https://i.postimg.cc/JzGFfbYb/20250529-072833.png" group-title="Bangladesh",Banglavision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
@@ -175,7 +175,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="moviebangla" tvg-name="Movie Bangla" tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127_095813.png" group-title="Bangladesh",Movie Bangla
-https://ottbanglaplatform.com/tv/toffee/live.php?id=movie_bangla&e=.m3u8
+https://ashtv.com.bd/server/channels/movie_bangla_tv.m3u8
 
 #EXTINF:-1 tvg-id="mytv" tvg-name="MY TV" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png" group-title="Bangladesh",MY TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
@@ -316,7 +316,7 @@ https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovies" tvg-name="Jalsha Movie" tvg-logo="https://i.imgur.com/lLhY3yS.jpeg" group-title="India",Jalsha Movie
-https://ashtv.com.bd/server/channels/star_jalsha_movies.m3u8
+https://tyr.zibobdixserver.top/hls/JalshaMoviesHD.m3u8
 
 #EXTINF:-1 tvg-id="StarGoldHD" tvg-name="Star Gold HD" tvg-logo="https://i.postimg.cc/PqN0KF2M/20251202_090224.png" group-title="India",Star Gold HD
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C103/master.m3u8
