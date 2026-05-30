@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-05-30 15:02:05 (BD Time)
-# 📺 Channels Count: 255
+# 🕒 Last Updated: 2026-05-30 19:56:20 (BD Time)
+# 📺 Channels Count: 256
 #=================================
 
 #EXTINF:-1 tvg-id="A SPORTS HD" tvg-name="A SPORTS HD" tvg-logo="https://i.imgur.com/hO4UiBa.png" group-title="Sports",A SPORTS HD
@@ -39,8 +39,11 @@ https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="cricketgold" tvg-name="Cricket Gold" tvg-logo="https://i.imgur.com/UvbHjlx.png" group-title="Sports",Cricket Gold
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
 
-#EXTINF:-1 tvg-id="WILLOW" tvg-name="WILLOW" tvg-logo="https://i.imgur.com/UnrS7Kn.png" group-title="Sports",WILLOW SPORTS
+#EXTINF:-1 tvg-id="WILLOW" tvg-name="WILLOW" tvg-logo="https://i.imgur.com/pk0drbW.png" group-title="Sports",WILLOW LIVE
 https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SxpTQhd.png" group-title="Sports",WILLOW 2
+https://plu002.myturn1.top:8088/live/webcrichindi/playlist.m3u8?vidictid=205662191748&id=119771&pk=12c7120bcd0e14f112528f3cb1d6c905a5df588013b3fbe231357c459a771c53ed925b9c6e6f4304d64f0d9f4d03d5e4d0d896af43b8a2c7f32d505c29286eae
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="Sports",beIN sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
