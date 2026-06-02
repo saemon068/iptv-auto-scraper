@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-06-01 16:35:08 (BD Time)
-# 📺 Channels Count: 256
+# 🕒 Last Updated: 2026-06-02 23:13:06 (BD Time)
+# 📺 Channels Count: 261
 #=================================
 
 #EXTINF:-1 tvg-id="A SPORTS HD" tvg-name="A SPORTS HD" tvg-logo="https://i.imgur.com/hO4UiBa.png" group-title="Sports",A SPORTS HD
@@ -15,14 +15,29 @@ https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8e08XtE.png" group-title="Sports",FIFA World Cup
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-id="T SPORTS" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg" group-title="Sports",T SPORTS
+#EXTINF:-1 tvg-id="T SPORTS" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg" group-title="Sports",T SPORTS HD
 https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="T SPORTS" tvg-name="T SPORTS" tvg-logo="https://i.imgur.com/iI17rZ3.jpeg" group-title="Sports",T SPORTS
+https://amitomar.bdixbd.net/hoichoi.pro1/tracks-v1/index.m3u8
 
 #EXTINF:-1 tvg-id="PTV SPORTS HD" tvg-name="PTV SPORTS HD" tvg-logo="https://i.imgur.com/WFf2kaH.jpeg" group-title="Sports",PTV SPORTS HD
 https://tvsen5.aynaott.com/PtvSports/index.m3u8
 
 #EXTINF:-1 tvg-id="STAR SPORTS 1 HD" tvg-name="STAR SPORTS 1 HD" tvg-logo="https://i.imgur.com/pBMoNL1.jpeg" group-title="Sports",STAR SPORTS 1
 https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="STAR SPORTS 2 HD" tvg-name="STAR SPORTS 2 HD" tvg-logo="https://i.imgur.com/ED1Es6H.jpeg" group-title="Sports",STAR SPORTS 2
+https://flussonic.deltainfonet.com/08_STAR-SPORTS_2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="STAR SPORTS 3" tvg-name="STAR SPORTS 3" tvg-logo="https://i.imgur.com/wZ6JbqO.jpeg" group-title="Sports",STAR SPORTS 3
+https://flussonic.deltainfonet.com/09_STAR-SPORTS_3/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSelect1" tvg-name="STAR SPORTS SELECT 1" tvg-logo="https://i.imgur.com/Uf9kaSQ.jpeg" group-title="Sports",STAR SPO SEL 1
+https://tyr.zibobdixserver.top/hls/StarSportsSelect1HD.m3u8
+
+#EXTINF:-1 tvg-id="StarSportsSelect2" tvg-name="STAR SPORTS SELECT 2" tvg-logo="https://i.imgur.com/H5wcIUZ.png" group-title="Sports",STAR SPO SEL 2
+https://tyr.zibobdixserver.top/hls/StarSportsSelect2HD.m3u8
 
 #EXTINF:-1 tvg-id="SONY SPORTS 1 HD" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://i.imgur.com/Iroas9d.jpeg" group-title="Sports",SONY SPORTS 1
 https://ashtv.com.bd/server/channels/sony_ten_sports_1_hd.m3u8
@@ -41,9 +56,6 @@ https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b7
 
 #EXTINF:-1 tvg-id="WILLOW" tvg-name="WILLOW" tvg-logo="https://i.imgur.com/pk0drbW.png" group-title="Sports",WILLOW LIVE
 https://tvsen5.aynaott.com/willowhd/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SxpTQhd.png" group-title="Sports",WILLOW 2
-https://plu002.myturn1.top:8088/live/webcrichindi/playlist.m3u8?vidictid=205662191748&id=119771&pk=12c7120bcd0e14f112528f3cb1d6c905a5df588013b3fbe231357c459a771c53ed925b9c6e6f4304d64f0d9f4d03d5e4d0d896af43b8a2c7f32d505c29286eae
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ouAva7k.png" group-title="Sports",beIN sports Xtra
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
@@ -184,7 +196,7 @@ https://ashtv.com.bd/server/channels/movie_bangla_tv.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/chLzRXC/Nagorik-TV-Logo.png" group-title="Bangladesh",Nagorik TV
-https://flussonic.defineatoz.com/backup/tracks-v1a1/mono.m3u8
+https://flussonic.deltainfonet.com/59_NAGORIK-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="news24" tvg-name="NEWS24" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/08/news24.jpg" group-title="Bangladesh",NEWS24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
@@ -528,6 +540,9 @@ https://ashtv.com.bd/server/channels/sony_yay.m3u8
 #EXTINF:-1 tvg-id="tinypop" tvg-name="tiny pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Tiny_Pop_2018.svg" group-title="Kids",Tiny Pop
 https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8
 
+#EXTINF:-1 group-title="Islamic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPU_idVchUr-IGT6csSe94IJYOYZafaEr4Dg&s",Azan TV
+https://tvs03.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/vh6zWCN.png",Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
 
@@ -706,7 +721,7 @@ https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigi
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.postimg.cc/TYcpKMDZ/20251222_213635.png",Star Movies HD
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://stvlive.net:8080/starmovies/index.m3u8
+https://tyr.zibobdixserver.top/hls/StarMoviesHD.m3u8
 
 #EXTINF:-1 group-title="English" tvg-logo="https://i.imgur.com/XH5kFva.png",Star Movies Select HD
 https://tv.ottking.top/webottking/linkchor/111.m3u8
