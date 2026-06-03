@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-06-03 16:13:20 (BD Time)
-# 📺 Channels Count: 261
+# 🕒 Last Updated: 2026-06-03 21:04:53 (BD Time)
+# 📺 Channels Count: 262
 #=================================
 
 #EXTINF:-1 tvg-id="A SPORTS HD" tvg-name="A SPORTS HD" tvg-logo="https://i.imgur.com/hO4UiBa.png" group-title="Sports",A SPORTS HD
@@ -72,6 +72,9 @@ https://tvsen5.aynaott.com/espn/index.m3u8
 #EXTINF:-1 tvg-id="fignttv" tvg-name="FIGHT TV" tvg-logo="https://i.imgur.com/AUwplTI.png" group-title="Sports",FIGHT TV
 https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/aa5b1380-fbb4-48a4-a03d-21fe36643886/1.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J68kqSc.png" group-title="Sports",TNT SPORTS 1
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95" group-title="Sports",TSN 1
 https://tvsen7.aynaott.com/tsn1/index.m3u8
 
@@ -136,7 +139,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 
 #EXTINF:-1 tvg-id="channelone" tvg-name="Channel One" tvg-logo="https://i.imgur.com/zZGE9Ae.png" group-title="Bangladesh",Channel One
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
+https://tvs03.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="channeli" tvg-name="Channel I" tvg-logo="https://i.postimg.cc/J47vqwbY/20250529-101717.png" group-title="Bangladesh",Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
@@ -190,7 +193,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="moviebangla" tvg-name="Movie Bangla" tvg-logo="https://i.postimg.cc/wBN1BtXk/20251127_095813.png" group-title="Bangladesh",Movie Bangla
-https://ashtv.com.bd/server/channels/movie_bangla_tv.m3u8
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-id="mytv" tvg-name="MY TV" tvg-logo="https://i.postimg.cc/HxGF4V2b/20250529_103226.png" group-title="Bangladesh",MY TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mytv-up-off.stream/playlist.m3u8
