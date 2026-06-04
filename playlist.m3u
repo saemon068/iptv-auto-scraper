@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-06-04 12:53:30 (BD Time)
+# 🕒 Last Updated: 2026-06-04 16:34:53 (BD Time)
 # 📺 Channels Count: 262
 #=================================
 
@@ -40,16 +40,16 @@ https://tyr.zibobdixserver.top/hls/StarSportsSelect1HD.m3u8
 https://tyr.zibobdixserver.top/hls/StarSportsSelect2HD.m3u8
 
 #EXTINF:-1 tvg-id="SONY SPORTS 1 HD" tvg-name="SONY SPORTS 1 HD" tvg-logo="https://i.imgur.com/Iroas9d.jpeg" group-title="Sports",SONY SPORTS 1
-https://ashtv.com.bd/server/channels/sony_ten_sports_1_hd.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_1_hd&e=.m3u8
 
 #EXTINF:-1 tvg-id="SONY SPORTS 2 HD" tvg-name="SONY SPORTS 2 HD" tvg-logo="https://i.imgur.com/tzi3Nxo.jpeg" group-title="Sports",SONY SPORTS 2
-https://ashtv.com.bd/server/channels/sony_ten_sports_2_hd.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_2_hd&e=.m3u8
 
 #EXTINF:-1 tvg-id="SONY SPORTS 5 HD" tvg-name="SONY SPORTS 5" tvg-logo="https://i.imgur.com/S1VtnRj.jpeg" group-title="Sports",SONY SPORTS 5
-https://ashtv.com.bd/server/channels/sony_ten_sports_5_hd.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_sports_5_hd&e=.m3u8
 
 #EXTINF:-1 tvg-id="ten cricket" tvg-name="ten cricket" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/TEN_Cricket.png" group-title="Sports",TEN CRICKET
-https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/tracks-v1a1/mono.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 
 #EXTINF:-1 tvg-id="cricketgold" tvg-name="Cricket Gold" tvg-logo="https://i.imgur.com/UvbHjlx.png" group-title="Sports",Cricket Gold
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
@@ -73,7 +73,7 @@ https://tvsen5.aynaott.com/espn/index.m3u8
 https://streams2.sofast.tv/ptnr-yupptv/title-FIGHT-TV-ENG_yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/aa5b1380-fbb4-48a4-a03d-21fe36643886/1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J68kqSc.png" group-title="Sports",TNT SPORTS 1
-https://edge2.roarzone.net:8447/roarzone/edge5/tnt-sport-1/index.m3u8?token=52e5c40cb380669c2aea0fb7bb8600acf8ed517e-e87782ce2d47f8e202712cd9af45e7da-1780563308-1780552508
+https://autumn-shape-b04a.soft-disk-1347.workers.dev/https://edge2.roarzone.net:8447/roarzone/edge5/tnt-sport-1/index.m3u8?token=52e5c40cb380669c2aea0fb7bb8600acf8ed517e-e87782ce2d47f8e202712cd9af45e7da-1780563308-1780552508
 
 #EXTINF:-1 tvg-logo="https://s3.aynaott.com/storage/59fe7ff434fed04ecec29b4d737ebc95" group-title="Sports",TSN 1
 https://tvsen7.aynaott.com/tsn1/index.m3u8
@@ -97,7 +97,7 @@ https://tvsen6.aynaott.com/nfl/index.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-id="anirban" tvg-name="ASH TV" tvg-logo="https://i.imgur.com/rwd1rei.png" group-title="Bangladesh",Anirban
-https://ashtv.com.bd/server/channels/toffee_movies.m3u8
+https://sm-monirul.top/ultra_restream/play/toffee_movie.m3u8
 
 #EXTINF:-1 tvg-id="ashtv" tvg-name="ASH TV" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/06/ASH-TV.jpg" group-title="Bangladesh",ASH TV
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
@@ -247,7 +247,7 @@ https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist
 https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C45/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bOiEafY.png" group-title="India",Colors Bangla
-https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+https://padmaonline.duckdns.org:8088/ColorsBanglaHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-logo="https://i.imgur.com/8CcbX7q.png" group-title="India",Dangal 2
 https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
@@ -298,22 +298,22 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/chunklist_b1628000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TFPRKlt.png" group-title="India",Sony Enter TV HD
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C66/master.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyentertainmnt_hd&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.setindia.com/assests/images/logo.png" group-title="India",Sony Enter TV
-https://ashtv.com.bd/server/channels/sony_entertainment_television_hd.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_entertainment&e=.m3u8
 
 #EXTINF:-1 tvg-id="289" tvg-logo="https://i.imgur.com/LLAR9bY.png" group-title="India",SONY MAX
-https://ashtv.com.bd/server/channels/sony_max.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max_hd&e=.m3u8
 
 #EXTINF:-1 tvg-id="289" tvg-logo="https://www.sonymax1.com/assets/images/sonymax1.png" group-title="India",SONY MAX 1
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C111/master.m3u8
 
 #EXTINF:-1 tvg-id="289" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/Sony-max-2-in.png" group-title="India",SONY MAX 2
-https://ashtv.com.bd/server/channels/sony_max_2.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
 
 #EXTINF:-1 tvg-id="289" tvg-logo="https://www.sonymax.tv/assests/images/logo.png" group-title="India",SONY MAX HD
-https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://ftpbdlive.com:8097/SONY-MAX/index.fmp4.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max&e=.m3u8
 
 #EXTINF:-1 tvg-id="sony sab" tvg-name="sony sab" tvg-logo="https://www.sonysab.in/assests/images/logo.png" group-title="India",Sony Sab
 https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
@@ -322,7 +322,7 @@ https://stream.ottplus.bd/live/sub_hd_abr/live/sony_sub_hd_720/chunks.m3u8
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C106/master.m3u8
 
 #EXTINF:-1 group-title="India" tvg-logo="https://www.sonyaath.com/assets/media/images/AathLogo.png",Sony Ath
-https://ashtv.com.bd/server/channels/sony_aath.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyaath&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7b/Star_Bharat_2022.png" group-title="India", Star Bharat HD
 https://autumn-shape-b04a.soft-disk-1347.workers.dev/?url=http://maxotts.maxdigitaltv.com/x-media/C301/master.m3u8
@@ -538,7 +538,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
 https://ottbanglaplatform.com/tv/toffee/live.php?id=pogo_sd&e=.m3u8
 
 #EXTINF:-1 tvg-id="sony yay" tvg-name="sony yay" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/SONY_YAY.png" group-title="Kids",Sony Yay
-https://ashtv.com.bd/server/channels/sony_yay.m3u8
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sonyyay&e=.m3u8
 
 #EXTINF:-1 tvg-id="tinypop" tvg-name="tiny pop" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Tiny_Pop_2018.svg" group-title="Kids",Tiny Pop
 https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/480p/index.m3u8
@@ -547,7 +547,7 @@ https://amg01753-narrativeuk-amg01753c1-rakuten-uk-2339.playouts.now.amagi.tv/48
 https://tvs03.nurmd2006-official.workers.dev/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/azantv.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/vh6zWCN.png",Islamic TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
+https://sm-monirul.top/ultra_restream/play/islamic_tv.m3u8
 
 #EXTINF:-1 group-title="Islamic" tvg-logo="https://i.imgur.com/colOISC.jpeg",Makkah Live
 https://cdn01.medialive.one:2096/SAUDIQURANFHD/tracks-v1a1/mono.ts.m3u8
