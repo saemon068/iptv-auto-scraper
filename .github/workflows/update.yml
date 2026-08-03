@@ -17,8 +17,8 @@ jobs:
 
       - name: Fetch and Convert HTTP to HTTPS
         run: |
-          # সোর্স থেকে ফাইল ডাউনলোড করে http কে https করে Aynaott.m3u নামে সেভ করবে
-          curl -s "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Aynaott.m3u" | sed 's|http://|https://|g' > Aynaott.m3u
+          # সোর্স থেকে ফাইল ডাউনলোড করে http কে https করে ayna.m3u নামে সেভ করবে
+          curl -s "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Aynaott.m3u" | sed 's|http://|https://|g' > ayna.m3u
 
       - name: Check for changes and Commit
         run: |
@@ -27,7 +27,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           # ফাইলটি অ্যাড করা
-          git add Aynaott.m3u
+          git add ayna.m3u
           
           # চেক করা নতুন কোনো পরিবর্তন আছে কি না
           if git diff --staged --quiet; then
