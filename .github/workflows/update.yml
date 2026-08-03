@@ -1,0 +1,39 @@
+name: Auto Update M3U Playlist
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # প্রতি ৬ ঘণ্টা পরপর অটোমেটিক চেক করবে
+  workflow_dispatch: # আপনি চাইলে গিটহাব থেকে ম্যানুয়ালিও রান করতে পারবেন
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # ফাইল পুশ করার পারমিশন
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and Convert HTTP to HTTPS
+        run: |
+          # সোর্স থেকে ফাইল ডাউনলোড করে http কে https করে Aynaott.m3u নামে সেভ করবে
+          curl -s "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Aynaott.m3u" | sed 's|http://|https://|g' > Aynaott.m3u
+
+      - name: Check for changes and Commit
+        run: |
+          # গিটহাব বট কনফিগারেশন
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # ফাইলটি অ্যাড করা
+          git add Aynaott.m3u
+          
+          # চেক করা নতুন কোনো পরিবর্তন আছে কি না
+          if git diff --staged --quiet; then
+            echo "কোনো নতুন ডেটা আসেনি। সেভ করা হচ্ছে না।"
+          else
+            git commit -m "Auto Update: New playlist data added (HTTP to HTTPS)"
+            git push
+            echo "নতুন ডেটা পাওয়া গেছে এবং সেভ করা হয়েছে।"
+          fi
