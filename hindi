@@ -1,18 +1,18 @@
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="HINDI",ZING
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/91/Zing_300x300.png/revision/latest?cb=20240313185236" group-title="HINDI",ZING
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://yowaimo.in/Sflex-ArtlPVT0719/ZING.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="HINDI",ZEE ZEST HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLS7a2QAdpEPAFc-tYzU0zcwcqu0ErO--D_l3nLEAbko6wTzu93mGNNbjB&s=10" group-title="HINDI",ZEE ZEST HD
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_ZEST_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="HINDI",ZEE TV HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6PshQbU7sijcm6UuzzXvRWv_adLdbI9BWPxKz8AmBpmDLRIjRhwJ7rmHC&s=10" group-title="HINDI",ZEE TV HD
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_TV_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="HINDI",ZEE CLASSIC
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZoBuZBy-so6crZ7tXXn0KdT_VFOwlURKnpTsyQXjinTCoRn9fPGudlzI&s=10" group-title="HINDI",ZEE CLASSIC
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CLASSIC.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="HINDI",ZEE CINEMALU HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8ZyticrTS10exCTJ8BLQaZZxmtFSrEbYvvFH0DKSuNRpOGbGfOYoUAmM&s=10" group-title="HINDI",ZEE CINEMALU HD
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CINEMALU_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="HINDI",ZEE CINEMA HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_783,h_441,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemahd/channel_list/1170x658withlogo9430ec08479b47f0a19c0283cd9495a7.png" group-title="HINDI",ZEE CINEMA HD
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CINEMA_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="HINDI",UNITE8 SPORTS 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_720,h_405,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/list/1920x1080list60cd7fc8b57c4e1baf1cd4f603413540.jpg" group-title="HINDI",UNITE8 SPORTS 1 HD
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_CAFE_HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="HINDI",ZEE BOLLYBOOD
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_webp/www.bizasialive.com/wp-content/uploads/2018/08/zeebollywoodlogoNEW-1200x750.jpg" group-title="HINDI",ZEE BOLLYBOOD
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_BOLLYWOOD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/7dj2csy6/images-1.jpg" group-title="HINDI",ZEE BHARAT
 https://live.bdixbd.net/api/proxy/stream.m3u8?url=https://yowaimo.in/Sflex-ArtlPVT0719/ZEE_BHARAT.m3u8
