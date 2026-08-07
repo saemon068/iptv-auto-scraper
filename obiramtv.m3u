@@ -35,3 +35,7 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 
 #EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=ZB+Cartoon&background=A436A0&color=fff&bold=true", ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=ZB+Cartoon&background=A436A0&color=fff&bold=true", Star Jalsha
+https://sm-monirul.top/@monirul_Islam_SM/stream.php?id=star_jalsha&formet=.m3u8
+
