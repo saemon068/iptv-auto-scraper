@@ -6,28 +6,32 @@
 # 📺 Channels Count: 22
 #=================================
 
-
-
-#EXTINF:-1,UNMOCHON TV
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Unmochon+TV&background=E83D84&color=fff&bold=true",UNMOCHON TV
 https://jagroniakash.ncare.live/unmochontv/unmochontv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,বিশ্ব বাংলা ২৪
+
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Biswa+Bangla&background=A436A0&color=fff&bold=true",বিশ্ব বাংলা ২৪
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/biswabanglatv.stream/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1, JHANKAR TV
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Jhankar+TV&background=111111&color=E83D84&bold=true", JHANKAR TV
 https://dbcanada.sonarbanglatv.com/jhankartv/jtv/index.m3u8
-#EXTINF:-1, CB 24
+
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=CB+24&background=222222&color=fff&bold=true", CB 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/cb24.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,AYNA TV
+
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Ayna+TV&background=E83D84&color=fff&bold=true",AYNA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,TIKANA TV
+
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Thikana+TV&background=A436A0&color=fff&bold=true",TIKANA TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/thikanatv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,EPTV BD
+
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=EPTV+BD&background=111111&color=fff&bold=true",EPTV BD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/eptv.stream/tracks-v1a1/mono.m3u8
-#EXTINF:-1,GALAXY TV BD
+
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Galaxy+TV&background=222222&color=E83D84&bold=true",GALAXY TV BD
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/galaxytvbd.stream/tracks-v1a1/playlist.m3u8
-#EXTINF:-1,Channel 16
+
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=Channel+16&background=E83D84&color=fff&bold=true",Channel 16
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1 ,ZB Cartoon
+#EXTINF:-1 tvg-logo="https://ui-avatars.com/api/?name=ZB+Cartoon&background=A436A0&color=fff&bold=true", ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
