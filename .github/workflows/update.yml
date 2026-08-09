@@ -18,7 +18,7 @@ jobs:
       - name: Fetch and Convert HTTP to HTTPS
         run: |
           # সোর্স থেকে ফাইল ডাউনলোড করে http কে https করে ayna.m3u নামে সেভ করবে
-          curl -s "https://raw.githubusercontent.com/sm-monirulislam/SM-Live-TV/refs/heads/main/Aynaott.m3u" | sed 's|http://|https://|g' > ayna.m3u
+          curl -s "https://raw.githubusercontent.com/sm-monirulislam/SM-IPTV/refs/heads/main/Aynaott.m3u" | sed 's|http://|https://|g' > ayna.m3u
 
       - name: Check for changes and Commit
         run: |
