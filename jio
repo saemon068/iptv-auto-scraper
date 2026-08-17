@@ -1,0 +1,38 @@
+#EXTINF:-1 group-title="Bangla",NTV
+http://103.165.93.31:8095/ntv/index.m3u8
+
+#EXTINF:-1 group-title="Bangla",RTV
+http://103.165.93.31:8095/rtv/index.m3u8
+
+#EXTINF:-1 group-title="Bangla",Channel i
+http://103.165.93.31:8095/channelI/index.m3u8
+
+#EXTINF:-1 group-title="Bangla",Independent TV
+http://103.165.93.31:8095/independentTv/index.m3u8
+
+#EXTINF:-1 group-title="Bangla",Gazi TV (GTV)
+http://103.165.93.31:8095/gtv/index.m3u8
+
+#EXTINF:-1 group-title="Bangla",Ekattor TV
+http://103.165.93.31:8095/ekattorTv/index.m3u8
+
+#EXTINF:-1 group-title="Sports",T Sports
+http://103.165.93.31:8095/tSports/index.m3u8
+
+#EXTINF:-1 group-title="Hindi",Star Plus
+http://103.165.93.31:8095/starPlus/index.m3u8
+
+#EXTINF:-1 group-title="Hindi",Sony TV
+http://103.165.93.31:8095/sonyTv/index.m3u8
+
+#EXTINF:-1 group-title="Hindi",Zee TV
+http://103.165.93.31:8095/zeeTv/index.m3u8
+
+#EXTINF:-1 group-title="Sports",Star Sports 1
+http://103.165.93.31:8095/starSports1/index.m3u8
+
+#EXTINF:-1 group-title="Kids",Pogo
+http://103.165.93.31:8095/pogo/index.m3u8
+
+#EXTINF:-1 group-title="Kids",Cartoon Network
+http://103.165.93.31:8095/cn/index.m3u8
