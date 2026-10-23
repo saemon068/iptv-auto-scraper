@@ -11,18 +11,37 @@ def filter_m3u():
 
         with open(output_file, "w", encoding="utf-8") as f:
             f.write("#EXTM3U\n")
-            keep_next_line = False
+            
+            block = []
             for line in lines:
-                if line.startswith("#EXTINF"):
-                    if 'group-title="sports"' in line.lower() or 'group-title="Sports"' in line:
-                        f.write(line + "\n")
-                        keep_next_line = True
-                    else:
-                        keep_next_line = False
-                elif keep_next_line and line.strip() and not line.startswith("#"):
-                    f.write(line + "\n")
-                    keep_next_line = False
-        print("Sports playlist updated!")
+                line_str = line.strip()
+                
+                if not line_str:
+                    continue
+                if line_str.startswith("#EXTM3U"):
+                    continue
+                    
+                # চ্যানেলের প্রতিটি লাইন (EXTINF, KODIPROP ইত্যাদি) ব্লকে জমা হবে
+                block.append(line_str)
+                
+                # লাইনটি যদি # দিয়ে শুরু না হয়, তার মানে এটি ভিডিও লিংক (চ্যানেলের ব্লক শেষ)
+                if not line_str.startswith("#"):
+                    # চেক করবো এই ব্লকে group-title="Sports" আছে কিনা
+                    is_sports = False
+                    for b in block:
+                        if b.startswith("#EXTINF") and 'group-title="sports"' in b.lower():
+                            is_sports = True
+                            break
+                    
+                    # স্পোর্টস চ্যানেল হলে পুরো ব্লক (DRM Key সহ) ফাইলে সেভ করবে
+                    if is_sports:
+                        for b in block:
+                            f.write(b + "\n")
+                            
+                    # পরের চ্যানেলের জন্য ব্লক খালি করে দেওয়া
+                    block = []
+                    
+        print("Sports playlist updated with full DRM keys!")
     except Exception as e:
         print(f"Error: {e}")
 
