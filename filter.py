@@ -21,11 +21,13 @@ def filter_m3u():
                 if line_str.startswith("#EXTM3U"):
                     continue
                     
-                # চ্যানেলের প্রতিটি লাইন (EXTINF, KODIPROP ইত্যাদি) ব্লকে জমা হবে
+                # চ্যানেলের প্রতিটি লাইন (EXTINF, DRM Key, User-Agent) ব্লকে জমা হবে
                 block.append(line_str)
                 
-                # লাইনটি যদি # দিয়ে শুরু না হয়, তার মানে এটি ভিডিও লিংক (চ্যানেলের ব্লক শেষ)
+                # লাইনটি যদি # দিয়ে শুরু না হয়, তার মানে এটি ভিডিও লিংক
                 if not line_str.startswith("#"):
+                    stream_url = line_str.lower()
+                    
                     # চেক করবো এই ব্লকে group-title="Sports" আছে কিনা
                     is_sports = False
                     for b in block:
@@ -33,15 +35,18 @@ def filter_m3u():
                             is_sports = True
                             break
                     
-                    # স্পোর্টস চ্যানেল হলে পুরো ব্লক (DRM Key সহ) ফাইলে সেভ করবে
-                    if is_sports:
+                    # চেক করবো লিংকটি https দিয়ে শুরু এবং এতে .mpd আছে কিনা
+                    is_valid_url = stream_url.startswith("https") and ".mpd" in stream_url
+                    
+                    # যদি Sports চ্যানেল হয় এবং লিংকটি https + mpd হয়, তবেই সেভ করবে
+                    if is_sports and is_valid_url:
                         for b in block:
                             f.write(b + "\n")
                             
                     # পরের চ্যানেলের জন্য ব্লক খালি করে দেওয়া
                     block = []
                     
-        print("Sports playlist updated with full DRM keys!")
+        print("Playlist updated! Only HTTPS + MPD Sports channels with DRM keys are saved.")
     except Exception as e:
         print(f"Error: {e}")
 
